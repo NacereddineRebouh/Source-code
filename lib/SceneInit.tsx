@@ -53,16 +53,10 @@ export default class SceneInit {
     this.scene = new THREE.Scene();
     this.loadingManager = new THREE.LoadingManager();
     //environement
-
-    const envtexture = new THREE.TextureLoader().load(textureMoon.src);
     const envMap = new THREE.CubeTextureLoader()
       .setPath("/textures/env4/")
       .load(["px.png", "nx.png", "py.png", "ny.png", "pz.png", "nz.png"]);
     envMap.encoding = THREE.sRGBEncoding;
-    const dark = new THREE.MeshStandardMaterial({
-      color: 0x000000,
-      roughness: 1,
-    });
     this.scene.background = envMap;
     this.scene.environment = envMap;
     this.clock = new THREE.Clock();
