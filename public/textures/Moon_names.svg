@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="-400 -300 800 600">
+  <switch>
+   <title systemLanguage="de">Beifahrerseite des Mondes mit großen Maria und Krater gekennzeichnet.</title>
+   <title systemLanguage="es">Cara visible de la luna con los principales mares y cráteres.</title>
+   <title systemLanguage="it">Viso visibile della luna con i principali mari e crateri.</title>
+   <title systemLanguage="fr">Face visible de la lune avec les principaux cratères et mers</title>
+   <title systemLanguage="bg">Близката страна на Луната с отбелязани главните морета и кратери</title>
+   <title systemLanguage="zh">月球正面上主要的海和一些坑穴的名稱。</title>
+   <title>Lunar nearside with major maria and craters labelled</title>
+  </switch>
+  <switch>
+    <desc systemLanguage="bg">Близката страна на Луната с отбелязани главните морета и кратери. Снимка Gregory H. Revera, оригинален файл от CMG Lee, превод на български Богдан Маринов.</desc>
+    <desc systemLanguage="de">Beifahrerseite des Mondes mit großen Maria und Krater gekennzeichnet.</desc>
+    <desc systemLanguage="es">Cara visible de la luna con los principales mares y cráteres ilustrados por CMG Lee.</desc>
+	<desc systemLanguage="it">Viso visibile della luna con i principali mari e crateri etichettati da CMG Lee.</desc>
+    <desc systemLanguage="fr">Face visible de la lune avec les principaux cratères et mers pour CMG Lee.</desc>
+    <desc systemLanguage="zh">月球正面上主要的海和一些坑穴的名稱。</desc>
+    <desc>Lunar nearside with major maria and craters labelled by CMG Lee.</desc>
+  </switch>
+  <defs>
+    <g id="labels">
+      <g font-family="Helvetica,Arial,sans-serif" font-size="18">
+        <g text-anchor="end">
+          <line x1="-10" y1="-170" x2="-100" y2="-280" stroke="#66ccff"/>
+          <g transform="translate(-100,-260)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg267-mk" systemLanguage="mk"><tspan id="trsvg1-mk">МОРЕ НА СТУДОТ</tspan></text><text y="-20" id="trsvg267-cs" systemLanguage="cs"><tspan id="trsvg1-cs">MARE FRIGORIS</tspan></text><text y="-20" id="trsvg267"><tspan id="trsvg1">MARE FRIGORIS</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg268"><tspan id="trsvg2">Море на студа</tspan></text>
+              <text systemLanguage="de" id="trsvg269"><tspan id="trsvg3">Meer der Kälte</tspan></text>
+              <text systemLanguage="es" id="trsvg270"><tspan id="trsvg4">Mar del Frío</tspan></text>
+			  <text systemLanguage="it" id="trsvg271"><tspan id="trsvg5">Mare del Freddo</tspan></text>
+              <text systemLanguage="fr" id="trsvg272"><tspan id="trsvg6">Mer du Froid</tspan></text>
+              <text systemLanguage="ko" id="trsvg273"><tspan id="trsvg7">추위의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg274"><tspan id="trsvg8">Море Холоду</tspan></text>
+              <text systemLanguage="zh" id="trsvg275"><tspan id="trsvg9">冷海</tspan></text>
+              
+            <text id="trsvg276-mk" systemLanguage="mk"><tspan id="trsvg10-mk">Mare Frigoris</tspan></text><text id="trsvg276-cs" systemLanguage="cs"><tspan id="trsvg10-cs">Moře chladu</tspan></text><text id="trsvg276"><tspan id="trsvg10">Sea of cold</tspan></text></switch>
+          </g>
+          <line x1="-55" y1="-160" x2="-130" y2="-230" stroke="#ffcc66"/>
+          <g transform="translate(-130,-225)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg277"><tspan id="trsvg11">ПЛАТОН (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg278"><tspan id="trsvg12">PLATO (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg279"><tspan id="trsvg13">PLATO (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg280"><tspan id="trsvg14">PLATONE (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg281"><tspan id="trsvg15">PLATO (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg282"><tspan id="trsvg16">플라토 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg283"><tspan id="trsvg17">PLATO Платон</tspan></text>
+              <text systemLanguage="zh" id="trsvg284"><tspan id="trsvg18">PLATO 柏拉圖撞擊坑</tspan></text>
+              
+            <text id="trsvg285-mk" systemLanguage="mk"><tspan id="trsvg19-mk">ПЛАТОН (кратер)</tspan></text><text id="trsvg285-cs" systemLanguage="cs"><tspan id="trsvg19-cs">PLATO (Kráter)</tspan></text><text id="trsvg285"><tspan id="trsvg19">PLATO (crater)</tspan></text></switch>
+          </g>
+          <line x1="-60" y1="-120" x2="-160" y2="-190" stroke="#66ccff"/>
+          <g transform="translate(-160,-170)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg286-mk" systemLanguage="mk"><tspan id="trsvg20-mk">МОРЕ НА ДОЖДОВИТЕ</tspan></text><text y="-20" id="trsvg286-cs" systemLanguage="cs"><tspan id="trsvg20-cs">MARE IMBRIUM</tspan></text><text y="-20" id="trsvg286"><tspan id="trsvg20">MARE IMBRIUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg287"><tspan id="trsvg21">Море на дъждовете</tspan></text>
+              <text systemLanguage="de" id="trsvg288"><tspan id="trsvg22">Regenmeer</tspan></text>
+              <text systemLanguage="es" id="trsvg289"><tspan id="trsvg23">Mar de la Lluvia</tspan></text>
+			  <text systemLanguage="it" id="trsvg290"><tspan id="trsvg24">Mare delle Piogge</tspan></text>
+              <text systemLanguage="fr" id="trsvg291"><tspan id="trsvg25">Mer des Pluies</tspan></text>
+              <text systemLanguage="ko" id="trsvg292"><tspan id="trsvg26">비의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg293"><tspan id="trsvg27">Море Дощів</tspan></text>
+              <text systemLanguage="zh" id="trsvg294"><tspan id="trsvg28">雨海</tspan></text>
+              
+            <text id="trsvg295-mk" systemLanguage="mk"><tspan id="trsvg29-mk">Mare Imbrium</tspan></text><text id="trsvg295-cs" systemLanguage="cs"><tspan id="trsvg29-cs">Moře dešťů</tspan></text><text id="trsvg295"><tspan id="trsvg29">Sea of showers / rain</tspan></text></switch>
+          </g>
+          <line x1="-70" y1="-40" x2="-180" y2="-140" stroke="#ffcc66"/>
+          <g transform="translate(-180,-135)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg296"><tspan id="trsvg30">КОПЕРНИК (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg297"><tspan id="trsvg31">COPERNICUS (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg298"><tspan id="trsvg32">COPERNICUS (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg299"><tspan id="trsvg33">COPERNICO (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg300"><tspan id="trsvg34">COPERNICUS (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg301"><tspan id="trsvg35">코페르니쿠스 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg302"><tspan id="trsvg36">COPERNICUS Коперник</tspan></text>
+              <text systemLanguage="zh" id="trsvg303"><tspan id="trsvg37">COPERNICUS 哥白尼撞擊坑</tspan></text>
+              
+            <text id="trsvg304-mk" systemLanguage="mk"><tspan id="trsvg38-mk">КОПЕРНИК (кратер)</tspan></text><text id="trsvg304-cs" systemLanguage="cs"><tspan id="trsvg38-cs">COPERNICUS (Kráter)</tspan></text><text id="trsvg304"><tspan id="trsvg38">COPERNICUS (crater)</tspan></text></switch>
+          </g>
+          <line x1="-150" y1="-60" x2="-190" y2="-100" stroke="#ffcc66"/>
+          <g transform="translate(-190,-95)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg305"><tspan id="trsvg39">АРИСТАРХ (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg306"><tspan id="trsvg40">ARISTARCHUS (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg307"><tspan id="trsvg41">ARISTARCO (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg308"><tspan id="trsvg42">ARISTARCO (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg309"><tspan id="trsvg43">ARISTARCHUS (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg310"><tspan id="trsvg44">아리스타르코스 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg311"><tspan id="trsvg45">ARISTARCHUS Аристарх</tspan></text>
+              <text systemLanguage="zh" id="trsvg312"><tspan id="trsvg46">ARISTARCHUS 阿里斯塔克斯撞擊坑</tspan></text>
+              
+            <text id="trsvg313-mk" systemLanguage="mk"><tspan id="trsvg47-mk">АРИСТАРХ (кратер)</tspan></text><text id="trsvg313-cs" systemLanguage="cs"><tspan id="trsvg47-cs">ARISTARCHUS (Kráter)</tspan></text><text id="trsvg313"><tspan id="trsvg47">ARISTARCHUS (crater)</tspan></text></switch>
+          </g>
+          <line x1="-120" y1="-10" x2="-200" y2="-60" stroke="#ffcc66"/>
+          <g transform="translate(-200,-55)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg314"><tspan id="trsvg48">КЕПЛЕР (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg315"><tspan id="trsvg49">KEPLER (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg316"><tspan id="trsvg50">KEPLER (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg317"><tspan id="trsvg51">KEPLER (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg318"><tspan id="trsvg52">KEPLER (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg319"><tspan id="trsvg53">케플러 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg320"><tspan id="trsvg54">KEPLER Кеплер</tspan></text>
+              <text systemLanguage="zh" id="trsvg321"><tspan id="trsvg55">KEPLER 開普勒撞擊坑</tspan></text>
+              
+            <text id="trsvg322-mk" systemLanguage="mk"><tspan id="trsvg56-mk">КЕПЛЕР (кратер)</tspan></text><text id="trsvg322-cs" systemLanguage="cs"><tspan id="trsvg56-cs">KEPLER (Kráter)</tspan></text><text id="trsvg322"><tspan id="trsvg56">KEPLER (crater)</tspan></text></switch>
+          </g>
+          <line x1="-150" y1="0" x2="-200" y2="50" stroke="#66ccff"/>
+          <g transform="translate(-200,95)" fill="#66ccff">
+            <switch><text id="trsvg323-mk" systemLanguage="mk"><tspan x="0" y="-40" id="trsvg57-mk">ОКЕАН НА</tspan>
+              <tspan x="0" y="-20" id="trsvg58-mk">БУРИТЕ</tspan>
+            </text><text id="trsvg323-cs" systemLanguage="cs"><tspan x="0" y="-40" id="trsvg57-cs">OCEANUS</tspan>
+              <tspan x="0" y="-20" id="trsvg58-cs">PROCELLARUM</tspan>
+            </text><text id="trsvg323"><tspan x="0" y="-40" id="trsvg57">OCEANUS</tspan>
+              <tspan x="0" y="-20" id="trsvg58">PROCELLARUM</tspan>
+            </text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg324"><tspan id="trsvg59">Океан на бурите</tspan></text>
+              <text systemLanguage="de" id="trsvg325"><tspan id="trsvg60">Ozean der Stürme</tspan></text>
+              <text systemLanguage="es" id="trsvg326"><tspan id="trsvg61">Océano de Tormentas</tspan></text>
+			  <text systemLanguage="it" id="trsvg327"><tspan id="trsvg62">Oceano delle Tempeste</tspan></text>
+              <text systemLanguage="fr" id="trsvg328"><tspan id="trsvg63">Océan des Tempêtes</tspan></text>
+              <text systemLanguage="ko" id="trsvg329"><tspan id="trsvg64">폭풍의 대양</tspan></text>
+              <text systemLanguage="uk" id="trsvg330"><tspan id="trsvg65">Океан Бур</tspan></text>
+              <text systemLanguage="zh" id="trsvg331"><tspan id="trsvg66">風暴洋</tspan></text>
+              
+            <text id="trsvg332-mk" systemLanguage="mk"><tspan id="trsvg67-mk">Oceanus Procellarum</tspan></text><text id="trsvg332-cs" systemLanguage="cs"><tspan id="trsvg67-cs">Oceán bouří</tspan></text><text id="trsvg332"><tspan id="trsvg67">Ocean of storms</tspan></text></switch>
+          </g>
+          <line x1="-170" y1="55" x2="-190" y2="130" stroke="#ffcc66"/>
+          <g transform="translate(-190,135)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg333"><tspan id="trsvg68">ГРИМАЛДИ (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg334"><tspan id="trsvg69">GRIMALDI (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg335"><tspan id="trsvg70">GRIMALDI (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg336"><tspan id="trsvg71">GRIMALDI (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg337"><tspan id="trsvg72">GRIMALDI (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg338"><tspan id="trsvg73">그리말디 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg339"><tspan id="trsvg74">GRIMALDI Грімальді</tspan></text>
+              <text systemLanguage="zh" id="trsvg340"><tspan id="trsvg75">GRIMALDI 格里馬爾迪撞擊坑</tspan></text>
+              
+            <text id="trsvg341-mk" systemLanguage="mk"><tspan id="trsvg76-mk">ГРИМАЛДИ (кратер)</tspan></text><text id="trsvg341-cs" systemLanguage="cs"><tspan id="trsvg76-cs">GRIMALDI (Kráter)</tspan></text><text id="trsvg341"><tspan id="trsvg76">GRIMALDI (crater)</tspan></text></switch>
+          </g>
+          <line x1="-130" y1="110" x2="-170" y2="170" stroke="#ffcc66"/>
+          <g transform="translate(-170,175)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg342"><tspan id="trsvg77">BYRGIUS (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg343"><tspan id="trsvg78">BYRGIUS (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg344"><tspan id="trsvg79">BYRGIUS (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg345"><tspan id="trsvg80">BYRGIUS (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg346"><tspan id="trsvg81">BYRGIUS (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg347"><tspan id="trsvg82">비르기우스 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg348"><tspan id="trsvg83">BYRGIUS Бюргі</tspan></text>
+              <text systemLanguage="zh" id="trsvg349"><tspan id="trsvg84">BYRGIUS 比爾吉撞擊坑</tspan></text>
+              
+            <text id="trsvg350-mk" systemLanguage="mk"><tspan id="trsvg85-mk">БИРГИЈ (кратер)</tspan></text><text id="trsvg350-cs" systemLanguage="cs"><tspan id="trsvg85-cs">BYRGIUS (Kráter)</tspan></text><text id="trsvg350"><tspan id="trsvg85">BYRGIUS (crater)</tspan></text></switch>
+          </g>
+          <line x1="-70" y1="20" x2="-140" y2="210" stroke="#66ccff"/>
+          <g transform="translate(-140,230)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg351-mk" systemLanguage="mk"><tspan id="trsvg86-mk">СПОЗНАЕНО МОРЕ</tspan></text><text y="-20" id="trsvg351-cs" systemLanguage="cs"><tspan id="trsvg86-cs">MARE COGNITUM</tspan></text><text y="-20" id="trsvg351"><tspan id="trsvg86">MARE COGNITUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg352"><tspan id="trsvg87">Море Опознато</tspan></text>
+              <text systemLanguage="de" id="trsvg353"><tspan id="trsvg88">Bekanntes Meer</tspan></text>
+              <text systemLanguage="es" id="trsvg354"><tspan id="trsvg89">Mar Conocido</tspan></text>
+			  <text systemLanguage="it" id="trsvg355"><tspan id="trsvg90">Mare conosciuto</tspan></text>
+              <text systemLanguage="fr" id="trsvg356"><tspan id="trsvg91">Mer de la Connaissance</tspan></text>
+              <text systemLanguage="ko" id="trsvg357"><tspan id="trsvg92">인식의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg358"><tspan id="trsvg93">Море Пізнане</tspan></text>
+              <text systemLanguage="zh" id="trsvg359"><tspan id="trsvg94">知海</tspan></text>
+              
+            <text id="trsvg360-mk" systemLanguage="mk"><tspan id="trsvg95-mk">Mare Cognitum</tspan></text><text id="trsvg360-cs" systemLanguage="cs"><tspan id="trsvg95-cs">Moře poznání</tspan></text><text id="trsvg360"><tspan id="trsvg95">Sea that has become known</tspan></text></switch>
+          </g>
+          <line x1="-80" y1="90" x2="-120" y2="270" stroke="#66ccff"/>
+          <g transform="translate(-121,290)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg361-mk" systemLanguage="mk"><tspan id="trsvg96-mk">МОРЕ НА ВЛАГАТА</tspan></text><text y="-20" id="trsvg361-cs" systemLanguage="cs"><tspan id="trsvg96-cs">MARE HUMORUM</tspan></text><text y="-20" id="trsvg361"><tspan id="trsvg96">MARE HUMORUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg362"><tspan id="trsvg97">Море на влажността</tspan></text>
+              <text systemLanguage="de" id="trsvg363"><tspan id="trsvg98">Meer der Feuchtigkeit</tspan></text>
+              <text systemLanguage="es" id="trsvg364"><tspan id="trsvg99">Mar de la Humedad</tspan></text>
+			  <text systemLanguage="it" id="trsvg365"><tspan id="trsvg100">Mare delle umidità</tspan></text>
+              <text systemLanguage="fr" id="trsvg366"><tspan id="trsvg101">Mer des Humeurs</tspan></text>
+              <text systemLanguage="ko" id="trsvg367"><tspan id="trsvg102">습기의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg368"><tspan id="trsvg103">Море Вологості</tspan></text>
+              <text systemLanguage="zh" id="trsvg369"><tspan id="trsvg104">濕海</tspan></text>
+              
+            <text id="trsvg370-mk" systemLanguage="mk"><tspan id="trsvg105-mk">Mare Humorum</tspan></text><text id="trsvg370-cs" systemLanguage="cs"><tspan id="trsvg105-cs">Moře vláhy</tspan></text><text id="trsvg370"><tspan id="trsvg105">Sea of moisture</tspan></text></switch>
+          </g>
+        </g>
+        <g text-anchor="middle">
+          <g transform="translate(0,-240)" fill="#ffffff">
+            <switch>
+              <text systemLanguage="bg" id="trsvg371"><tspan id="trsvg106">СЕВЕР</tspan></text>
+              <text systemLanguage="de" id="trsvg372"><tspan id="trsvg107">NORD</tspan></text>
+              <text systemLanguage="es" id="trsvg373"><tspan id="trsvg108">NORTE</tspan></text>
+			  <text systemLanguage="it" id="trsvg374"><tspan id="trsvg109">NORD</tspan></text>
+              <text systemLanguage="fr" id="trsvg375"><tspan id="trsvg110">Nord</tspan></text>
+              <text systemLanguage="ko" id="trsvg376"><tspan id="trsvg111">북쪽</tspan></text>
+              <text systemLanguage="uk" id="trsvg377"><tspan id="trsvg112">ПІВНІЧ</tspan></text>
+              <text systemLanguage="zh" id="trsvg378"><tspan id="trsvg113">北方</tspan></text>
+              
+            <text id="trsvg379-mk" systemLanguage="mk"><tspan id="trsvg114-mk">СЕВЕР</tspan></text><text id="trsvg379-cs" systemLanguage="cs"><tspan id="trsvg114-cs">SEVER</tspan></text><text id="trsvg379"><tspan id="trsvg114">NORTH</tspan></text></switch>
+          </g>
+          <g transform="translate(0,250)" fill="#ffffff">
+            <switch>
+              <text systemLanguage="bg" id="trsvg380"><tspan id="trsvg115">ЮГ</tspan></text>
+              <text systemLanguage="de" id="trsvg381"><tspan id="trsvg116">SÜD</tspan></text>
+              <text systemLanguage="es" id="trsvg382"><tspan id="trsvg117">SUR</tspan></text>
+			  <text systemLanguage="it" id="trsvg383"><tspan id="trsvg118">SUD</tspan></text>
+              <text systemLanguage="fr" id="trsvg384"><tspan id="trsvg119">Sud</tspan></text>
+              <text systemLanguage="ko" id="trsvg385"><tspan id="trsvg120">남쪽</tspan></text>
+              <text systemLanguage="uk" id="trsvg386"><tspan id="trsvg121">ПІВДЕНЬ</tspan></text>
+              <text systemLanguage="zh" id="trsvg387"><tspan id="trsvg122">南方</tspan></text>
+              
+            <text id="trsvg388-mk" systemLanguage="mk"><tspan id="trsvg123-mk">ЈУГ</tspan></text><text id="trsvg388-cs" systemLanguage="cs"><tspan id="trsvg123-cs">JIH</tspan></text><text id="trsvg388"><tspan id="trsvg123">SOUTH</tspan></text></switch>
+          </g>
+        </g>
+        <g text-anchor="start">
+          <g transform="translate(-380,-10)" fill="#ffffff">
+            <switch>
+              <text id="trsvg389" systemLanguage="bg"><tspan id="trsvg124">ЗАПАД (на Луната)</tspan>
+                <tspan x="0" y="20" id="trsvg125">ИЗТОК (в небето)</tspan>
+              </text>
+              <text id="trsvg390" systemLanguage="de"><tspan id="trsvg126">WEST (auf dem Mond)</tspan>
+                <tspan x="0" y="20" id="trsvg127">OST (im Himmel)</tspan>
+              </text>
+			  <text id="trsvg391" systemLanguage="es"><tspan id="trsvg128">OESTE (en la Luna)</tspan>
+                <tspan x="0" y="20" id="trsvg129">ESTE (en el cielo)</tspan>
+              </text>
+			  <text id="trsvg392" systemLanguage="it"><tspan id="trsvg130">OVEST (sulla Luna)</tspan>
+                <tspan x="0" y="20" id="trsvg131">EST (nel cielo)</tspan>
+              </text>
+              <text id="trsvg393" systemLanguage="fr"><tspan id="trsvg132">Ouest (de la lune)</tspan>
+                <tspan x="0" y="20" id="trsvg133">Est (dans le ciel)</tspan>
+              </text>
+              <text id="trsvg394" systemLanguage="ko"><tspan id="trsvg134">서쪽 (달 기준)</tspan>
+                <tspan x="0" y="20" id="trsvg135">동쪽 (하늘 기준)</tspan>
+              </text>
+              <text id="trsvg395" systemLanguage="uk"><tspan id="trsvg136">ЗАХІД (на Місяці)</tspan>
+                <tspan x="0" y="20" id="trsvg137">СХІД (на небі)</tspan>
+              </text>
+              <text id="trsvg396" systemLanguage="zh"><tspan id="trsvg138">西方（月球）</tspan>
+                <tspan x="0" y="20" id="trsvg139">東方（天空）</tspan>
+              </text>
+              
+            <text id="trsvg397-mk" systemLanguage="mk"><tspan id="trsvg140-mk">ЗАПАД (на Месеч.)</tspan>
+                <tspan x="5" dy="20" id="trsvg141-mk">ИСТОК (на небото)</tspan>
+              </text><text id="trsvg397-cs" systemLanguage="cs"><tspan id="trsvg140-cs">ZÁPAD (na Měsíci)</tspan>
+                <tspan x="5" dy="20" id="trsvg141-cs">VÝCHOD (na obloze)</tspan>
+              </text><text id="trsvg397"><tspan id="trsvg140">WEST (on the moon)</tspan>
+                <tspan x="5" dy="20" id="trsvg141">EAST (in the sky)</tspan>
+              </text></switch>
+          </g>
+          <g transform="translate(210,-20)" fill="#ffffff">
+            <switch>
+              <text id="trsvg398" systemLanguage="bg"><tspan id="trsvg142">ИЗТОК (на Луната)</tspan>
+                <tspan x="0" y="20" id="trsvg143">ЗАПАД (в небето)</tspan>
+              </text>
+              <text id="trsvg399" systemLanguage="de"><tspan id="trsvg144">OST (auf dem Mond)</tspan>
+                <tspan x="0" y="20" id="trsvg145">WEST (im Himmel)</tspan>
+              </text>
+              <text id="trsvg400" systemLanguage="es"><tspan id="trsvg146">ESTE (en la Luna)</tspan>
+                <tspan x="0" y="20" id="trsvg147">OESTE (en el cielo)</tspan>
+              </text>
+			  <text id="trsvg401" systemLanguage="it"><tspan id="trsvg148">EST (sulla Luna)</tspan>
+                <tspan x="0" y="20" id="trsvg149">OVEST (nel cielo)</tspan>
+              </text>
+              <text id="trsvg402" systemLanguage="fr"><tspan id="trsvg150">Est (de la lune)</tspan>
+                <tspan x="0" y="20" id="trsvg151">Ouest (dans le ciel)</tspan>
+              </text>
+              <text id="trsvg403" systemLanguage="ko"><tspan id="trsvg152">동쪽 (달 기준)</tspan>
+                <tspan x="0" y="20" id="trsvg153">서쪽 (하늘 기준)</tspan>
+              </text>
+              <text id="trsvg404" systemLanguage="uk"><tspan id="trsvg154">СХІД (на Місяці)</tspan>
+                <tspan x="0" y="20" id="trsvg155">ЗАХІД (на небі)</tspan>
+              </text>
+              <text id="trsvg405" systemLanguage="zh"><tspan id="trsvg156">東方（月球）</tspan>
+                <tspan x="0" y="20" id="trsvg157">西方（天空）</tspan>
+              </text>
+              
+            <text id="trsvg406-mk" systemLanguage="mk"><tspan id="trsvg158-mk">ИСТОК (на Месеч.)</tspan>
+                <tspan x="0" y="20" id="trsvg159-mk">ЗАПАД (на небото)</tspan>
+              </text><text id="trsvg406-cs" systemLanguage="cs"><tspan id="trsvg158-cs">VÝCHOD (na Měsíci)</tspan>
+                <tspan x="0" y="20" id="trsvg159-cs">ZÁPAD (na obloze)</tspan>
+              </text><text id="trsvg406"><tspan id="trsvg158">EAST (on the moon)</tspan>
+                <tspan x="0" y="20" id="trsvg159">WEST (in the sky)</tspan>
+              </text></switch>
+          </g>
+          <line x1="40" y1="-120" x2="100" y2="-280" stroke="#66ccff"/>
+          <g transform="translate(100,-260)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg407-mk" systemLanguage="mk"><tspan id="trsvg160-mk">МОРЕ НА ВЕДРИНАТА</tspan></text><text y="-20" id="trsvg407-cs" systemLanguage="cs"><tspan id="trsvg160-cs">MARE SERENITATIS</tspan></text><text y="-20" id="trsvg407"><tspan id="trsvg160">MARE SERENITATIS</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg408"><tspan id="trsvg161">Море на яснотата</tspan></text>
+              <text systemLanguage="de" id="trsvg409"><tspan id="trsvg162">Meer der Heiterkeit</tspan></text>
+              <text systemLanguage="es" id="trsvg410"><tspan id="trsvg163">Mar de la Serenidad</tspan></text>
+			  <text systemLanguage="it" id="trsvg411"><tspan id="trsvg164">Mare della Serenità</tspan></text>
+              <text systemLanguage="fr" id="trsvg412"><tspan id="trsvg165">Mer de la Sérénité</tspan></text>
+              <text systemLanguage="ko" id="trsvg413"><tspan id="trsvg166">평온의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg414"><tspan id="trsvg167">Море Ясності</tspan></text>
+              <text systemLanguage="zh" id="trsvg415"><tspan id="trsvg168">澄海</tspan></text>
+              
+            <text id="trsvg416-mk" systemLanguage="mk"><tspan id="trsvg169-mk">Mare Serenitas</tspan></text><text id="trsvg416-cs" systemLanguage="cs"><tspan id="trsvg169-cs">Moře jasu</tspan></text><text id="trsvg416"><tspan id="trsvg169">Sea of serenity</tspan></text></switch>
+          </g>
+          <line x1="80" y1="-70" x2="140" y2="-230" stroke="#66ccff"/>
+          <g transform="translate(140,-210)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg417-mk" systemLanguage="mk"><tspan id="trsvg170-mk">МОРЕ НА СПОКОЈОТ</tspan></text><text y="-20" id="trsvg417-cs" systemLanguage="cs"><tspan id="trsvg170-cs">MARE TRANQUILLITATIS</tspan></text><text y="-20" id="trsvg417"><tspan id="trsvg170">MARE TRANQUILLITATIS</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg418"><tspan id="trsvg171">Море на спокойствието</tspan></text>
+              <text systemLanguage="de" id="trsvg419"><tspan id="trsvg172">Meer der Ruhe</tspan></text>
+              <text systemLanguage="es" id="trsvg420"><tspan id="trsvg173">Mar de la Tranquilidad</tspan></text>
+			  <text systemLanguage="it" id="trsvg421"><tspan id="trsvg174">mare della Tranquillità</tspan></text>
+              <text systemLanguage="fr" id="trsvg422"><tspan id="trsvg175">Mer de la Tranquilité</tspan></text>
+              <text systemLanguage="ko" id="trsvg423"><tspan id="trsvg176">고요의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg424"><tspan id="trsvg177">Море Спокою</tspan></text>
+              <text systemLanguage="zh" id="trsvg425"><tspan id="trsvg178">靜海</tspan></text>
+              
+            <text id="trsvg426-mk" systemLanguage="mk"><tspan id="trsvg179-mk">Mare Tranquillitatis</tspan></text><text id="trsvg426-cs" systemLanguage="cs"><tspan id="trsvg179-cs">Moře klidu</tspan></text><text id="trsvg426"><tspan id="trsvg179">Sea of tranquility</tspan></text></switch>
+          </g>
+          <line x1="150" y1="-110" x2="170" y2="-175" stroke="#66ccff"/>
+          <g transform="translate(170,-155)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg427-mk" systemLanguage="mk"><tspan id="trsvg180-mk">МОРЕ НА КРИЗИТЕ</tspan></text><text y="-20" id="trsvg427-cs" systemLanguage="cs"><tspan id="trsvg180-cs">MARE CRISIUM</tspan></text><text y="-20" id="trsvg427"><tspan id="trsvg180">MARE CRISIUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg428"><tspan id="trsvg181">Море на кризите</tspan></text>
+              <text systemLanguage="de" id="trsvg429"><tspan id="trsvg182">Meer der Gefahren</tspan></text>
+              <text systemLanguage="es" id="trsvg430"><tspan id="trsvg183">Mar de la Crisis</tspan></text>
+			  <text systemLanguage="it" id="trsvg431"><tspan id="trsvg184">Mare delle Crisi</tspan></text>
+              <text systemLanguage="fr" id="trsvg432"><tspan id="trsvg185">Mer des Crises</tspan></text>
+              <text systemLanguage="ko" id="trsvg433"><tspan id="trsvg186">위난의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg434"><tspan id="trsvg187">Море Криз</tspan></text>
+              <text systemLanguage="zh" id="trsvg435"><tspan id="trsvg188">危海</tspan></text>
+              
+            <text id="trsvg436-mk" systemLanguage="mk"><tspan id="trsvg189-mk">Mare Crisium</tspan></text><text id="trsvg436-cs" systemLanguage="cs"><tspan id="trsvg189-cs">Moře nepokojů</tspan></text><text id="trsvg436"><tspan id="trsvg189">Sea of crises</tspan></text></switch>
+          </g>
+          <line x1="160" y1="-40" x2="180" y2="-120" stroke="#66ccff"/>
+          <g transform="translate(180,-100)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg437-mk" systemLanguage="mk"><tspan id="trsvg190-mk">МОРЕ НА ПЛОДНОСТА</tspan></text><text y="-20" id="trsvg437-cs" systemLanguage="cs"><tspan id="trsvg190-cs">MARE FECUNDITATIS</tspan></text><text y="-20" id="trsvg437"><tspan id="trsvg190">MARE FECUNDITATIS</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg438"><tspan id="trsvg191">Море на изобилието</tspan></text>
+              <text systemLanguage="de" id="trsvg439"><tspan id="trsvg192">Meer der Fruchtbarkeit</tspan></text>
+              <text systemLanguage="es" id="trsvg440"><tspan id="trsvg193">Mar de la Fertilidad</tspan></text>
+			  <text systemLanguage="it" id="trsvg441"><tspan id="trsvg194">Mare della Fertilità</tspan></text>
+              <text systemLanguage="fr" id="trsvg442"><tspan id="trsvg195">Mer de la Fertilité</tspan></text>
+              <text systemLanguage="ko" id="trsvg443"><tspan id="trsvg196">풍요의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg444"><tspan id="trsvg197">Море Достатку</tspan></text>
+              <text systemLanguage="zh" id="trsvg445"><tspan id="trsvg198">豐海</tspan></text>
+              
+            <text id="trsvg446-mk" systemLanguage="mk"><tspan id="trsvg199-mk">Mare Fecunditatis</tspan></text><text id="trsvg446-cs" systemLanguage="cs"><tspan id="trsvg199-cs">Moře plodnosti</tspan></text><text id="trsvg446"><tspan id="trsvg199">Sea of fecundity/fertility</tspan></text></switch>
+          </g>
+          <line x1="180" y1="-25" x2="200" y2="-70" stroke="#ffcc66"/>
+          <g transform="translate(200,-65)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg447"><tspan id="trsvg200">LANGRENUS (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg448"><tspan id="trsvg201">LANGRENUS (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg449"><tspan id="trsvg202">LANGRENUS (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg450"><tspan id="trsvg203">LANGRENUS (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg451"><tspan id="trsvg204">LANGRENUS (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg452"><tspan id="trsvg205">랑그레누스 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg453"><tspan id="trsvg206">LANGRENUS Лангрен</tspan></text>
+              <text systemLanguage="zh" id="trsvg454"><tspan id="trsvg207">LANGRENUS 朗倫撞擊坑</tspan></text>
+              
+            <text id="trsvg455-mk" systemLanguage="mk"><tspan id="trsvg208-mk">ЛАНГРЕН (кратер)</tspan></text><text id="trsvg455-cs" systemLanguage="cs"><tspan id="trsvg208-cs">LANGRENUS (Kráter)</tspan></text><text id="trsvg455"><tspan id="trsvg208">LANGRENUS (crater)</tspan></text></switch>
+          </g>
+          <line x1="125" y1="10" x2="210" y2="40" stroke="#66ccff"/>
+          <g transform="translate(210,60)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg456-mk" systemLanguage="mk"><tspan id="trsvg209-mk">МОРЕ НА НЕКТАРОТ</tspan></text><text y="-20" id="trsvg456-cs" systemLanguage="cs"><tspan id="trsvg209-cs">MARE NECTARIS</tspan></text><text y="-20" id="trsvg456"><tspan id="trsvg209">MARE NECTARIS</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg457"><tspan id="trsvg210">Море на нектара</tspan></text>
+              <text systemLanguage="de" id="trsvg458"><tspan id="trsvg211">Nektarmeer</tspan></text>
+              <text systemLanguage="es" id="trsvg459"><tspan id="trsvg212">Mar del Néctar</tspan></text>
+			  <text systemLanguage="it" id="trsvg460"><tspan id="trsvg213">Mare del Nettare</tspan></text>
+              <text systemLanguage="fr" id="trsvg461"><tspan id="trsvg214">Mer du Nectar</tspan></text>
+              <text systemLanguage="ko" id="trsvg462"><tspan id="trsvg215">감로주의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg463"><tspan id="trsvg216">Море Нектару</tspan></text>
+              <text systemLanguage="zh" id="trsvg464"><tspan id="trsvg217">酒海</tspan></text>
+              
+            <text id="trsvg465-mk" systemLanguage="mk"><tspan id="trsvg218-mk">Mare Nectaris</tspan></text><text id="trsvg465-cs" systemLanguage="cs"><tspan id="trsvg218-cs">Moře nektaru</tspan></text><text id="trsvg465"><tspan id="trsvg218">Sea of nectar</tspan></text></switch>
+          </g>
+          <line x1="160" y1="60" x2="200" y2="90" stroke="#ffcc66"/>
+          <g transform="translate(200,95)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg466"><tspan id="trsvg219">STEVINUS (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg467"><tspan id="trsvg220">STEVINUS (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg468"><tspan id="trsvg221">STEVINUS (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg469"><tspan id="trsvg222">STEVINUS (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg470"><tspan id="trsvg223">STEVINUS (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg471"><tspan id="trsvg224">스테비누스 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg472"><tspan id="trsvg225">STEVINUS Стевін</tspan></text>
+              <text systemLanguage="zh" id="trsvg473"><tspan id="trsvg226">STEVINUS 西蒙撞擊坑</tspan></text>
+              
+            <text id="trsvg474-mk" systemLanguage="mk"><tspan id="trsvg227-mk">СТЕВИН (кратер)</tspan></text><text id="trsvg474-cs" systemLanguage="cs"><tspan id="trsvg227-cs">STEVINUS (Kráter)</tspan></text><text id="trsvg474"><tspan id="trsvg227">STEVINUS (crater)</tspan></text></switch>
+          </g>
+          <line x1="20" y1="-60" x2="180" y2="130" stroke="#66ccff"/>
+          <g transform="translate(180,150)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg475-mk" systemLanguage="mk"><tspan id="trsvg228-mk">МОРЕ НА ПАРЕИТЕ</tspan></text><text y="-20" id="trsvg475-cs" systemLanguage="cs"><tspan id="trsvg228-cs">MARE VAPORUM</tspan></text><text y="-20" id="trsvg475"><tspan id="trsvg228">MARE VAPORUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg476"><tspan id="trsvg229">Море на парите</tspan></text>
+              <text systemLanguage="de" id="trsvg477"><tspan id="trsvg230">Meer der Dünste</tspan></text>
+              <text systemLanguage="es" id="trsvg478"><tspan id="trsvg231">Mar de los Vapores</tspan></text>
+			  <text systemLanguage="it" id="trsvg479"><tspan id="trsvg232">Mare dei Vapori</tspan></text>
+              <text systemLanguage="fr" id="trsvg480"><tspan id="trsvg233">Mer des Vapeurs</tspan></text>
+              <text systemLanguage="ko" id="trsvg481"><tspan id="trsvg234">증기의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg482"><tspan id="trsvg235">Море Пари</tspan></text>
+              <text systemLanguage="zh" id="trsvg483"><tspan id="trsvg236">汽海</tspan></text>
+              
+            <text id="trsvg484-mk" systemLanguage="mk"><tspan id="trsvg237-mk">Mare Vaporum</tspan></text><text id="trsvg484-cs" systemLanguage="cs"><tspan id="trsvg237-cs">Moře par</tspan></text><text id="trsvg484"><tspan id="trsvg237">Sea of vapours</tspan></text></switch>
+          </g>
+          <line x1="-95" y1="-16" x2="160" y2="185" stroke="#66ccff"/>
+          <g transform="translate(160,205)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg485-mk" systemLanguage="mk"><tspan id="trsvg238-mk">МОРЕ НА ОСТРОВИТЕ</tspan></text><text y="-20" id="trsvg485-cs" systemLanguage="cs"><tspan id="trsvg238-cs">MARE INSULARUM</tspan></text><text y="-20" id="trsvg485"><tspan id="trsvg238">MARE INSULARUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg486"><tspan id="trsvg239">Море на островите</tspan></text>
+              <text systemLanguage="de" id="trsvg487"><tspan id="trsvg240">Insel-Meer</tspan></text>
+              <text systemLanguage="es" id="trsvg488"><tspan id="trsvg241">Mar de Islas</tspan></text>
+			  <text systemLanguage="it" id="trsvg489"><tspan id="trsvg242">Mare delle Isole</tspan></text>
+              <text systemLanguage="fr" id="trsvg490"><tspan id="trsvg243">Mer des Îles</tspan></text>
+              <text systemLanguage="ko" id="trsvg491"><tspan id="trsvg244">섬의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg492"><tspan id="trsvg245">Море Островів</tspan></text>
+              <text systemLanguage="zh" id="trsvg493"><tspan id="trsvg246">島海</tspan></text>
+              
+            <text id="trsvg494-mk" systemLanguage="mk"><tspan id="trsvg247-mk">Mare Insularum</tspan></text><text id="trsvg494-cs" systemLanguage="cs"><tspan id="trsvg247-cs">Moře ostrovů</tspan></text><text id="trsvg494"><tspan id="trsvg247">Sea of islands</tspan></text></switch>
+          </g>
+          <line x1="-10" y1="70" x2="140" y2="240" stroke="#66ccff"/>
+          <g transform="translate(140,260)" fill="#66ccff">
+            <switch><text y="-20" id="trsvg495-mk" systemLanguage="mk"><tspan id="trsvg248-mk">МОРЕ НА ОБЛАЦИТЕ</tspan></text><text y="-20" id="trsvg495-cs" systemLanguage="cs"><tspan id="trsvg248-cs">MARE NUBIUM</tspan></text><text y="-20" id="trsvg495"><tspan id="trsvg248">MARE NUBIUM</tspan></text></switch>
+            <switch>
+              <text systemLanguage="bg" id="trsvg496"><tspan id="trsvg249">Море на облаците</tspan></text>
+              <text systemLanguage="de" id="trsvg497"><tspan id="trsvg250">Wolkenmeer</tspan></text>
+              <text systemLanguage="es" id="trsvg498"><tspan id="trsvg251">Mar de las Nubes</tspan></text>
+			  <text systemLanguage="it" id="trsvg499"><tspan id="trsvg252">Mare delle Nubi</tspan></text>
+              <text systemLanguage="fr" id="trsvg500"><tspan id="trsvg253">Mer des Nuées</tspan></text>
+              <text systemLanguage="ko" id="trsvg501"><tspan id="trsvg254">구름의 바다</tspan></text>
+              <text systemLanguage="uk" id="trsvg502"><tspan id="trsvg255">Море Хмар</tspan></text>
+              <text systemLanguage="zh" id="trsvg503"><tspan id="trsvg256">雲海</tspan></text>
+              
+            <text id="trsvg504-mk" systemLanguage="mk"><tspan id="trsvg257-mk">Mare Nubium</tspan></text><text id="trsvg504-cs" systemLanguage="cs"><tspan id="trsvg257-cs">Moře oblaků</tspan></text><text id="trsvg504"><tspan id="trsvg257">Sea of clouds</tspan></text></switch>
+          </g>
+          <line x1="10" y1="120" x2="110" y2="290" stroke="#ffcc66"/>
+          <g transform="translate(110,295)" fill="#ffcc66">
+            <switch>
+              <text systemLanguage="bg" id="trsvg505"><tspan id="trsvg258">ТИХО (кратер)</tspan></text>
+              <text systemLanguage="de" id="trsvg506"><tspan id="trsvg259">TYCHO (Krater)</tspan></text>
+              <text systemLanguage="es" id="trsvg507"><tspan id="trsvg260">TYCHO (cráter)</tspan></text>
+			  <text systemLanguage="it" id="trsvg508"><tspan id="trsvg261">TYCHO (cratere)</tspan></text>
+              <text systemLanguage="fr" id="trsvg509"><tspan id="trsvg262">TYCHO (cratère)</tspan></text>
+              <text systemLanguage="ko" id="trsvg510"><tspan id="trsvg263">티코 (충돌구)</tspan></text>
+              <text systemLanguage="uk" id="trsvg511"><tspan id="trsvg264">TYCHO Тихо</tspan></text>
+              <text systemLanguage="zh" id="trsvg512"><tspan id="trsvg265">TYCHO 第谷坑</tspan></text>
+              
+            <text id="trsvg513-mk" systemLanguage="mk"><tspan id="trsvg266-mk">ТИХО (кратер)</tspan></text><text id="trsvg513-cs" systemLanguage="cs"><tspan id="trsvg266-cs">TYCHO (Kráter)</tspan></text><text id="trsvg513"><tspan id="trsvg266">TYCHO (crater)</tspan></text></switch>
+          </g>
+        </g>
+      </g>
+    </g>
+  </defs>
+  <circle cx="0" cy="0" r="99999" fill="#000000"/>
+  <image x="-200" y="-200" width="400" height="400" xlink:href="data:image/jpeg;base64,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"/>
+  <use xlink:href="#labels"/>
+</svg>
